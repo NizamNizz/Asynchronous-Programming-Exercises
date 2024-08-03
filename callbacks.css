@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color:whitesmoke;
+    color: darkblue;
+}
+button {
+    background-color: darkcyan;
+    color:white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover{
+    background:green;
+}
+
+#output {
+    margin-top: 20px;
+    font-size: 18px;
+    color: green;
+}
